@@ -507,7 +507,7 @@ A big part of my work is about pushing beyond “one‑off prompts” into **aut
 
   <!-- GitHub Trophies (Optional Eye Candy) -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Darknivht&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    src="https://trophy.ryglcloud.net/?username=Darknivht&theme=darkhub"
     alt="GitHub Trophies"
   />
 
